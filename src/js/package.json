@@ -1,0 +1,6 @@
+{
+    "name": "pasmlibasm",
+    "version": "0.0.1-a",
+    "main": "libAsm.js",
+    "license": "UNLICENSED"
+}
